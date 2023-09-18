@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "students": [
+    {
+      "firstName": "csdcsd",
+      "lastName": "nghnhg",
+      "gender": "others",
+      "tz": "9999999",
+      "dateOfBirth": "2023-05-09T21:00:00.000Z",
+      "countryOfBirth": "cdscdsc",
+      "hativa": "Begin",
+      "kita": "csdcsd",
+      "status": "csdcsdc",
+      "id": 7
+    },
+    {
+      "firstName": "csdcsdc",
+      "lastName": "csdcs",
+      "gender": "female",
+      "tz": "44444",
+      "dateOfBirth": "2023-05-09T21:00:00.000Z",
+      "countryOfBirth": "dwedw",
+      "hativa": "Begin",
+      "kita": "dewdew",
+      "status": "dwedwe",
+      "id": 8
+    },
+    {
+      "firstName": "vitaly",
+      "lastName": "korsunov",
+      "gender": "male",
+      "tz": "307218826",
+      "dateOfBirth": "2023-09-12T21:00:00.000Z",
+      "countryOfBirth": "Ukrt",
+      "hativa": "Midle",
+      "kita": "det",
+      "status": "avtive",
+      "id": 9
+    }
+  ]
+}
